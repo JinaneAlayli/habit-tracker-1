@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/habit-tracker-1/static/css/main.cf82ce8d.css",
+    "main.js": "/habit-tracker-1/static/js/main.ecbc50db.js",
+    "static/js/488.7e2d56d0.chunk.js": "/habit-tracker-1/static/js/488.7e2d56d0.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/habit-tracker-1/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/habit-tracker-1/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/habit-tracker-1/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/habit-tracker-1/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/habit-tracker-1/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/habit-tracker-1/index.html",
+    "main.cf82ce8d.css.map": "/habit-tracker-1/static/css/main.cf82ce8d.css.map",
+    "main.ecbc50db.js.map": "/habit-tracker-1/static/js/main.ecbc50db.js.map",
+    "488.7e2d56d0.chunk.js.map": "/habit-tracker-1/static/js/488.7e2d56d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf82ce8d.css",
+    "static/js/main.ecbc50db.js"
+  ]
+}
