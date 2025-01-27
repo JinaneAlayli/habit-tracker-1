@@ -40,7 +40,6 @@ console.log("aa"+ habit);
       setLocalProgress(progress);
     }
   }, [habit]);
-  
  
   const markDayComplete = (date) => {
     const formattedDate = date.toISOString().split("T")[0];
